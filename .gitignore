@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+# Dataset is 50 MB: download it yourself (see README)
+data/fake_job_postings.csv
